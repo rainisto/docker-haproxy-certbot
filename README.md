@@ -1,3 +1,16 @@
+:warning: **Repository Archived**
+
+This project has been archived because the feature it provided, SSL certificate auto-renewal in haproxy, is now natively supported by the original software (starting from haproxy 3.2 - https://www.haproxy.com/blog/announcing-haproxy-3-2#acme-protocol). The solution is now available out of the box, making this repository obsolete.
+
+This repository has been archived and is no longer actively maintained.
+It is now read-only; no new issues or pull requests will be merged.
+You can always fork the repository and maintain your own version.
+
+Thank you for your interest in this project!
+
+---
+
+
 # Dockerized HAProxy with Let's Encrypt automatic certificate renewal capabilities
 
 This container provides an HAProxy instance with Let's Encrypt certificates generated
